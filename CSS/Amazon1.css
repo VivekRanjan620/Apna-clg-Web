@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    color:aliceblue;
+}
+
+#navbar{
+    height: 100px;
+    background-color: #0f1111;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#content{
+height: 475px;
+}
+
+.content-box{
+    width: 100px;
+    height: 100px;
+    /* background-color:aqua; */
+    border: 2px solid black;
+    display: inline-block;
+}
+
+footer{
+    background-color: #0f1111;
+    color:wheat;
+    text-align: center;
+}

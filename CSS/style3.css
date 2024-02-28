@@ -1,0 +1,32 @@
+.navbar {
+  background-color: aqua;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  background-color: white;
+  color: black;
+}
+
+.outer {
+  margin-top: 20px;
+  height: 350px;
+  width: 350px;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner {
+  height: 150px;
+  width: 150px;
+  background-color: crimson;
+}

@@ -1,0 +1,42 @@
+div {
+  height: 70px;
+  width: 70px;
+  display: inline-block;
+  border: 2px solid black;
+}
+
+#container {
+  margin-left: 50px;
+  margin-top: 50px;
+  height: 400px;
+  width: 600px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: flex-start;
+}
+.box1 {
+  background-color: blue;
+  width: 200px;
+}
+
+.box2 {
+  background-color: brown;
+  height: 150px;
+}
+.box3 {
+  background-color: chocolate;
+  height: 40px;
+}
+
+.box4 {
+  background-color: chartreuse;
+  width: 200px;
+}
+
+.box5 {
+  background-color: darkgreen;
+}

@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    background-color:aqua;
+    height: 100px;
+}
+
+.one{
+    color: bisque;
+    background-color:blue;
+    width: 200px;
+    /* margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+     margin-right: 20px; */
+     padding: 20px 20px 30px 30px ;
+     margin: 20px 20px 30px 30px ;
+     border-style:dashed;
+     border-color: chartreuse;
+     border-radius: 20px;
+    /* padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 20px; */ 
+}
+
+.two{
+    color:bisque;
+    background-color:mediumorchid;
+    height: 100px;
+    width: 200px;
+    padding: 20px 20px 30px 30px;
+    margin: 50px 20px 30px 30px ;
+    border-radius: 50%;
+    text-align: center;
+    border-style: double;
+    border-color: chartreuse;
+}
+
+.three{
+    color: aliceblue;
+    background-color:brown;
+    width: 200px;
+    margin: 50px 25px 30px 35px;
+    padding: 20px 20px 30px 30px ;
+    border-style: dotted;
+    text-transform: capitalize;
+   border-radius: 15px;
+}
+

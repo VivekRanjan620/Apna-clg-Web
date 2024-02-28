@@ -1,0 +1,20 @@
+.navbar {
+  height: 70px;
+  background-color: aquamarine;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  background-color: darkkhaki;
+  font-size: larger;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+}

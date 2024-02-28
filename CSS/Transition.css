@@ -1,0 +1,22 @@
+div {
+  height: 100px;
+  width: 100px;
+  background-color: darkcyan;
+  color: azure;
+  transition-property: all;
+  transition-duration: 2s;
+  transition-delay: 1s;
+  /* transition: ease-in; */
+}
+
+div:hover {
+  background-color: brown;
+  color: rgb(125, 234, 16);
+  border: 2px solid black;
+  font-size: 30px;
+}
+
+div:active {
+  background-color: darkorchid;
+  color: red;
+}
